@@ -16,11 +16,6 @@ Where to exchange OID? Buy and sell OID.
 2. Review buy orders. 
 3. Wait for the buy order to complete. 
 
-#### How do I turn my OID into cash?
-1. See "How to sell OID?" above.
-2. Buy BTC.  
-3. Send BTC -> https://coinbase.com account.
-4. At Coinbase (once it confirms) sell it for direct deposit to your financial institution.  
 *Note: Please consult your tax accountant for income questions.*
 
 #### I'd like to donate OID coin to the cause?
